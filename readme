@@ -1,0 +1,8 @@
+#Installation
+ --Install python
+ ---Install pip
+
+#Execution
+--Create a virtual environment
+--Install the requirements libraries
+--Run the project with "streamlit run app.py".
